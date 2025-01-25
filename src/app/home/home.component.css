@@ -1,0 +1,11 @@
+.head{
+    background-color: #1ABC9C;
+}
+.line{
+    width:80px;
+    height: 4px;
+    margin: 15px;
+}
+.word{
+    margin-top: 20px;
+}
